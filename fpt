@@ -575,12 +575,3 @@ http://42.118.224.174:13579/udp/225.1.1.90:30120
 http://42.118.224.174:13579/udp/225.1.1.224:30120
 #EXTINF:-1 group-title="Mua Sắm",BTV11 TOP Home Shopping
 http://42.118.224.174:13579/udp/225.1.4.84:30120
-#-------------------DRM-------------------#
-#EXTINF:-1 group-title="K+",K+1 HD (DRM)
-http://42.118.224.174:13579/udp/225.1.1.5:30120
-#EXTINF:-1 group-title="K+",K+NS HD (DRM)
-http://42.118.224.174:13579/udp/225.1.1.6:30120
-#EXTINF:-1 group-title="K+",K+PM HD (DRM)
-http://42.118.224.174:13579/udp/225.1.1.73:30120
-#EXTINF:-1 group-title="K+",K+PC HD (DRM)
-http://42.118.224.174:13579/udp/225.1.1.77:30120
